@@ -1,0 +1,25 @@
+body{
+    background-color: deepskyblue;
+}
+
+b{
+    color: darkorchid;
+    font-style: italic;
+}
+
+.header{
+    width: 90%;
+    font-size: 20px;
+    font-family: Georgia;
+}
+
+#webcam{
+    border: 2px dashed darkblue;
+    width: 350px;
+    height: 350px;
+}
+
+p{
+    font-size: 18px;
+    color: white;
+}
